@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_model-40001"
+all_model_checkpoint_paths: "mnist_model-36001"
+all_model_checkpoint_paths: "mnist_model-37001"
+all_model_checkpoint_paths: "mnist_model-38001"
+all_model_checkpoint_paths: "mnist_model-39001"
+all_model_checkpoint_paths: "mnist_model-40001"

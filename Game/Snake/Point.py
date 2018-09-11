@@ -1,0 +1,9 @@
+#coding:utf-8
+class Point:
+    row = 0
+    col = 0
+    def __init__(self,row,col):
+        self.row = row
+        self.col = col
+    pass
+

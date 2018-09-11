@@ -1,0 +1,749 @@
+1535526806795	geckodriver	INFO	geckodriver 0.21.0
+1535526806799	geckodriver	INFO	Listening on 127.0.0.1:42279
+1535526807857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6PsqDH93ubWc"
+1535526812518	Marionette	INFO	Listening on port 43753
+1535526812576	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535529902472	geckodriver	INFO	geckodriver 0.21.0
+1535529902475	geckodriver	INFO	Listening on 127.0.0.1:54301
+1535529903482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dSEI2HDb4OvI"
+1535529908806	Marionette	INFO	Listening on port 37331
+1535529908900	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16484): dconf-WARNING **: 16:05:30.349: Unable to open /snap/communitheme/current/share/dconf/profile/user: Permission denied
+1535529962788	geckodriver	INFO	geckodriver 0.21.0
+1535529962792	geckodriver	INFO	Listening on 127.0.0.1:35183
+1535529963794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u3kbN5L21310"
+1535529966959	Marionette	INFO	Listening on port 44539
+1535529967014	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16626, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 16403, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535531572087	geckodriver	INFO	geckodriver 0.21.0
+1535531572091	geckodriver	INFO	Listening on 127.0.0.1:36761
+1535531573102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.78Bfhzblcaow"
+1535531575968	Marionette	INFO	Listening on port 43745
+1535531576017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+[Parent 17640, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535531958103	geckodriver	INFO	geckodriver 0.21.0
+1535531958107	geckodriver	INFO	Listening on 127.0.0.1:43623
+1535531959111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LHnVUboPolV4"
+1535531961795	Marionette	INFO	Listening on port 41025
+1535531961820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535532696856	geckodriver	INFO	geckodriver 0.21.0
+1535532696859	geckodriver	INFO	Listening on 127.0.0.1:52161
+1535532697871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sfz8joKWHRxE"
+1535532702536	Marionette	INFO	Listening on port 35109
+1535532702590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+[Parent 18263, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 17919, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535532931266	geckodriver	INFO	geckodriver 0.21.0
+1535532931270	geckodriver	INFO	Listening on 127.0.0.1:56891
+1535532932280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vyS7dJKYwOx5"
+1535532937064	Marionette	INFO	Listening on port 33301
+1535532937097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533011467	geckodriver	INFO	geckodriver 0.21.0
+1535533011471	geckodriver	INFO	Listening on 127.0.0.1:38189
+1535533012475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.quz4Vw8DJ9Zz"
+1535533015681	Marionette	INFO	Listening on port 35001
+1535533015686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+
+(/usr/lib/firefox/firefox:18636): dconf-WARNING **: 16:57:39.757: Unable to open /snap/communitheme/current/share/dconf/profile/user: Permission denied
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533199120	geckodriver	INFO	geckodriver 0.21.0
+1535533199124	geckodriver	INFO	Listening on 127.0.0.1:58377
+1535533200133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BWnSYTBDqESW"
+1535533203049	Marionette	INFO	Listening on port 44327
+1535533203260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+[Parent 18753, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+[Parent 18544, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533374399	geckodriver	INFO	geckodriver 0.21.0
+1535533374403	geckodriver	INFO	Listening on 127.0.0.1:48005
+1535533375414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GYBkN19HZhbl"
+1535533379124	Marionette	INFO	Listening on port 42903
+1535533379131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533533283	geckodriver	INFO	geckodriver 0.21.0
+1535533533287	geckodriver	INFO	Listening on 127.0.0.1:47071
+1535533534297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bL2KQGVdPsfp"
+1535533539048	Marionette	INFO	Listening on port 36363
+1535533539116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533599104	geckodriver	INFO	geckodriver 0.21.0
+1535533599108	geckodriver	INFO	Listening on 127.0.0.1:57335
+1535533600118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r7joWvwNemHb"
+1535533603248	Marionette	INFO	Listening on port 33123
+1535533603333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+[Parent 19527, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533839670	geckodriver	INFO	geckodriver 0.21.0
+1535533839674	geckodriver	INFO	Listening on 127.0.0.1:54393
+1535533840682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F5dj0xIpjLez"
+1535533844008	Marionette	INFO	Listening on port 46143
+1535533844098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+
+(/usr/lib/firefox/firefox:20067): dconf-WARNING **: 17:10:54.559: Unable to open /snap/communitheme/current/share/dconf/profile/user: Permission denied
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 161: TypeError: Services.focus.focusedWindow is null
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535533922946	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 19979, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535533924474	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 19714, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 18988, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 19268, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535534371260	geckodriver	INFO	geckodriver 0.21.0
+1535534371264	geckodriver	INFO	Listening on 127.0.0.1:43607
+1535534372275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qA2y471h14qM"
+1535534375046	Marionette	INFO	Listening on port 41395
+1535534375086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535534509486	geckodriver	INFO	geckodriver 0.21.0
+1535534509490	geckodriver	INFO	Listening on 127.0.0.1:43473
+1535534510499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CQhdPPbbPRKq"
+1535534513779	Marionette	INFO	Listening on port 41849
+1535534513815	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 20487, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535534708223	geckodriver	INFO	geckodriver 0.21.0
+1535534708227	geckodriver	INFO	Listening on 127.0.0.1:54291
+1535534709240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G20XqN40JvBE"
+1535534712647	Marionette	INFO	Listening on port 43725
+1535534712654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535534820313	geckodriver	INFO	geckodriver 0.21.0
+1535534820317	geckodriver	INFO	Listening on 127.0.0.1:34903
+1535534821328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SuZ3lDA5PRDU"
+1535534824085	Marionette	INFO	Listening on port 36411
+1535534824139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535535003941	geckodriver	INFO	geckodriver 0.21.0
+1535535003945	geckodriver	INFO	Listening on 127.0.0.1:60819
+1535535004955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VFVO8p2v6Oni"
+1535535007969	Marionette	INFO	Listening on port 35605
+1535535008093	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21177, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 20944, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 21422, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535537313086	geckodriver	INFO	geckodriver 0.21.0
+1535537313090	geckodriver	INFO	Listening on 127.0.0.1:55491
+1535537314091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pKzaCaVinbUK"
+1535537318303	Marionette	INFO	Listening on port 34269
+1535537318313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535537320886	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535537383483	geckodriver	INFO	geckodriver 0.21.0
+1535537383486	geckodriver	INFO	Listening on 127.0.0.1:44173
+1535537384498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.goeAxevoRBNF"
+1535537388257	Marionette	INFO	Listening on port 33233
+1535537388321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535537759289	geckodriver	INFO	geckodriver 0.21.0
+1535537759293	geckodriver	INFO	Listening on 127.0.0.1:52899
+1535537760303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i4ozjwmpJbu4"
+1535537763587	Marionette	INFO	Listening on port 45571
+1535537763624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://apps.neu.edu.cn/cdnjs/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://apps.neu.edu.cn/cdnjs/ajax/libs/angular.js/1.2.20/angular.min.js, line 1: SyntaxError: expected expression, got '<'
+1535548212779	geckodriver	INFO	geckodriver 0.21.0
+1535548212783	geckodriver	INFO	Listening on 127.0.0.1:54089
+1535548213785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QFBJ0emgqYHe"
+1535548217617	Marionette	INFO	Listening on port 35547
+1535548217698	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24455, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535575829294	geckodriver	INFO	geckodriver 0.21.0
+1535575829299	geckodriver	INFO	Listening on 127.0.0.1:53243
+1535575830310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4rhBwDcW5d8Z"
+1535575833530	Marionette	INFO	Listening on port 40927
+1535575833624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535576875052	geckodriver	INFO	geckodriver 0.21.0
+1535576875097	geckodriver	INFO	Listening on 127.0.0.1:42669
+1535576876064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BdwNMwos7zLo"
+1535576879515	Marionette	INFO	Listening on port 35319
+1535576879581	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13034, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535577098511	geckodriver	INFO	geckodriver 0.21.0
+1535577098515	geckodriver	INFO	Listening on 127.0.0.1:46191
+1535577099524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3PcMnRe2jq9U"
+1535577103275	Marionette	INFO	Listening on port 40481
+1535577103345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535578203045	geckodriver	INFO	geckodriver 0.21.0
+1535578203050	geckodriver	INFO	Listening on 127.0.0.1:48929
+1535578204052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TwFsGhiidCSG"
+[Parent 13693, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535578207204	Marionette	INFO	Listening on port 44621
+1535578207617	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14455): dconf-WARNING **: 05:44:31.035: Unable to open /snap/communitheme/current/share/dconf/profile/user: Permission denied
+JavaScript warning: https://bb.neu.edu.cn/javascript/jquery/jquery.js?v=3100.0.3-rel.51+917ccd3, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://bb.neu.edu.cn/javascript/jquery/jquery.js?v=3100.0.3-rel.51+917ccd3, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://bb.neu.edu.cn/javascript/jquery/jquery.js?v=3100.0.3-rel.51+917ccd3, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/firefox:14455): Gtk-WARNING **: 05:45:12.658: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+JavaScript error: https://bb.neu.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_2923_1&content_id=_50791_1&mode=reset, line 503: TypeError: document.getElementById(...) is null
+JavaScript warning: https://bb.neu.edu.cn/javascript/jquery/jquery.js?v=3100.0.3-rel.51+917ccd3, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14369, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 14369, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535579607663	geckodriver	INFO	geckodriver 0.21.0
+1535579607668	geckodriver	INFO	Listening on 127.0.0.1:55115
+1535579608680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XsBmAvKcnt7K"
+1535579611718	Marionette	INFO	Listening on port 40569
+1535579611798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535579800523	geckodriver	INFO	geckodriver 0.21.0
+1535579800527	geckodriver	INFO	Listening on 127.0.0.1:58943
+1535579801530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rvgnrtiWrwLw"
+1535579804954	Marionette	INFO	Listening on port 36075
+1535579805045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535579951595	geckodriver	INFO	geckodriver 0.21.0
+1535579951598	geckodriver	INFO	Listening on 127.0.0.1:51699
+1535579952611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vPlpbENG9sCW"
+1535579956055	Marionette	INFO	Listening on port 46419
+1535579956129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+
+(/usr/lib/firefox/firefox:16824): dconf-WARNING **: 06:08:08.054: Unable to open /snap/communitheme/current/share/dconf/profile/user: Permission denied
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://bb.neu.edu.cn
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: chrome://global/content/browser-child.js, line 400: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDocShell.doCommand]
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://bb.neu.edu.cn
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 16523, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 16281, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535583168510	geckodriver	INFO	geckodriver 0.21.0
+1535583168514	geckodriver	INFO	Listening on 127.0.0.1:33965
+1535583169525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lY5YO2IliUeb"
+1535583173119	Marionette	INFO	Listening on port 43459
+1535583173140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+[Parent 18073, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535583552945	geckodriver	INFO	geckodriver 0.21.0
+1535583552950	geckodriver	INFO	Listening on 127.0.0.1:33699
+1535583553959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PR3GXFL0DtTq"
+1535583558167	Marionette	INFO	Listening on port 40061
+1535583558177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sba.neu.edu.cn/NEU/DivLogin.asp, line 60: TypeError: document.forms is not a function
+1535584270690	geckodriver	INFO	geckodriver 0.21.0
+1535584270695	geckodriver	INFO	Listening on 127.0.0.1:46953
+1535584271707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ni90XXY2PQqQ"
+1535584276772	Marionette	INFO	Listening on port 39137
+1535584276841	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18372, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 18718, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 16736, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535632687677	geckodriver	INFO	geckodriver 0.21.0
+1535632687717	geckodriver	INFO	Listening on 127.0.0.1:60385
+1535632688800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S7jkCMD7caEL"
+1535632693560	Marionette	INFO	Listening on port 44249
+1535632693621	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11373, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535632797061	geckodriver	INFO	geckodriver 0.21.0
+1535632797065	geckodriver	INFO	Listening on 127.0.0.1:56021
+1535632798067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EgzA3tZIKHlM"
+1535632801011	Marionette	INFO	Listening on port 44287
+1535632801080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535632890077	geckodriver	INFO	geckodriver 0.21.0
+1535632890080	geckodriver	INFO	Listening on 127.0.0.1:53721
+1535632891089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xfc8hHgaUX6R"
+1535632894225	Marionette	INFO	Listening on port 34767
+1535632894301	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11839, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535672687408	geckodriver	INFO	geckodriver 0.21.0
+1535672687412	geckodriver	INFO	Listening on 127.0.0.1:34471
+1535672688424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EyZnvgao0Ipi"
+1535672691934	Marionette	INFO	Listening on port 43627
+1535672692037	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23548, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535674426325	geckodriver	INFO	geckodriver 0.21.0
+1535674426329	geckodriver	INFO	Listening on 127.0.0.1:38589
+1535674427339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ylRG9Iusr2Ug"
+1535674430145	Marionette	INFO	Listening on port 38465
+1535674430154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535674625399	geckodriver	INFO	geckodriver 0.21.0
+1535674625402	geckodriver	INFO	Listening on 127.0.0.1:48317
+1535674626414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E9p5K8Y64V9t"
+1535674629308	Marionette	INFO	Listening on port 42463
+1535674629326	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24307, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24532, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535674793583	geckodriver	INFO	geckodriver 0.21.0
+1535674793587	geckodriver	INFO	Listening on 127.0.0.1:38493
+1535674794597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pJvHb84DPKhv"
+1535674799740	Marionette	INFO	Listening on port 35917
+1535674799814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24747, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24747, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535775885890	geckodriver	INFO	geckodriver 0.21.0
+1535775885976	geckodriver	INFO	Listening on 127.0.0.1:48293
+1535775886892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AzVoKEtV2sL5"
+1535775891784	Marionette	INFO	Listening on port 40165
+1535775891823	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22101, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535776434097	geckodriver	INFO	geckodriver 0.21.0
+1535776434101	geckodriver	INFO	Listening on 127.0.0.1:45007
+1535776435110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fW6uOPai1I4k"
+1535776437885	Marionette	INFO	Listening on port 33957
+1535776437924	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22464, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535776899868	geckodriver	INFO	geckodriver 0.21.0
+1535776899872	geckodriver	INFO	Listening on 127.0.0.1:32911
+1535776900883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OD6HTYhy3DRE"
+1535776903712	Marionette	INFO	Listening on port 37871
+1535776903793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535777117580	geckodriver	INFO	geckodriver 0.21.0
+1535777117584	geckodriver	INFO	Listening on 127.0.0.1:49385
+1535777118594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RBhf9IsXod3S"
+1535777126083	Marionette	INFO	Listening on port 38949
+1535777126121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535777870880	geckodriver	INFO	geckodriver 0.21.0
+1535777870884	geckodriver	INFO	Listening on 127.0.0.1:51179
+1535777871892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YlZri3fAhqIf"
+1535777875484	Marionette	INFO	Listening on port 38011
+1535777875513	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23064, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535778008794	geckodriver	INFO	geckodriver 0.21.0
+1535778008798	geckodriver	INFO	Listening on 127.0.0.1:55717
+1535778009806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4Mcr17j1djzt"
+1535778012655	Marionette	INFO	Listening on port 44111
+1535778012723	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23848, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 23587, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535778060307	geckodriver	INFO	geckodriver 0.21.0
+1535778060310	geckodriver	INFO	Listening on 127.0.0.1:49121
+1535778061320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jhzq75K7kIJ9"
+1535778065246	Marionette	INFO	Listening on port 40787
+1535778065343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535778307662	geckodriver	INFO	geckodriver 0.21.0
+1535778307666	geckodriver	INFO	Listening on 127.0.0.1:45955
+1535778308675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sWkR3fVf31Hb"
+1535778311626	Marionette	INFO	Listening on port 39291
+1535778311686	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24060, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24300, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535778324490	geckodriver	INFO	geckodriver 0.21.0
+1535778324494	geckodriver	INFO	Listening on 127.0.0.1:40779
+1535778325504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e6Ln8yIoQ3Nk"
+1535778328872	Marionette	INFO	Listening on port 39221
+1535778328920	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535778345283	geckodriver	INFO	geckodriver 0.21.0
+1535778345287	geckodriver	INFO	Listening on 127.0.0.1:48427
+1535778346299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wVnV5DMlvdyX"
+1535778349735	Marionette	INFO	Listening on port 43319
+1535778349812	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24692, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535778437559	geckodriver	INFO	geckodriver 0.21.0
+1535778437563	geckodriver	INFO	Listening on 127.0.0.1:44433
+1535778438569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.372xDuywNKtp"
+1535778442062	Marionette	INFO	Listening on port 36845
+1535778442082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535778616824	geckodriver	INFO	geckodriver 0.21.0
+1535778616827	geckodriver	INFO	Listening on 127.0.0.1:48561
+1535778617834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b9otq0U7c3JZ"
+1535778620615	Marionette	INFO	Listening on port 39723
+1535778620650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535778944634	geckodriver	INFO	geckodriver 0.21.0
+1535778944638	geckodriver	INFO	Listening on 127.0.0.1:56797
+1535778945650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kfwwg2A8Hp46"
+1535778948782	Marionette	INFO	Listening on port 44721
+1535778948866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535779046042	geckodriver	INFO	geckodriver 0.21.0
+1535779046046	geckodriver	INFO	Listening on 127.0.0.1:57383
+1535779047049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XUFg6yaIieTg"
+1535779050669	Marionette	INFO	Listening on port 36843
+1535779050793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535980581065	geckodriver	INFO	geckodriver 0.21.0
+1535980581113	geckodriver	INFO	Listening on 127.0.0.1:46927
+1535980582106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sEjDZIXyxmsF"
+1535980588321	Marionette	INFO	Listening on port 46845
+1535980588352	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29513, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 29513, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535980637694	geckodriver	INFO	geckodriver 0.21.0
+1535980637699	geckodriver	INFO	Listening on 127.0.0.1:38533
+1535980638708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PezfpeUGkkMV"
+1535980642624	Marionette	INFO	Listening on port 44025
+1535980642791	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535980694951	geckodriver	INFO	geckodriver 0.21.0
+1535980694955	geckodriver	INFO	Listening on 127.0.0.1:56419
+1535980695965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ghf6iz2bULNc"
+1535980699080	Marionette	INFO	Listening on port 37819
+1535980699176	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 29953, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 29953, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535980760917	geckodriver	INFO	geckodriver 0.21.0
+1535980760921	geckodriver	INFO	Listening on 127.0.0.1:52961
+1535980761934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.axYh4YAX4ovK"
+1535980764918	Marionette	INFO	Listening on port 39735
+1535980764953	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30243, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1535981459612	geckodriver	INFO	geckodriver 0.21.0
+1535981459648	geckodriver	INFO	Listening on 127.0.0.1:36631
+1535981460775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bncBtVrvScEd"
+1535981480427	Marionette	INFO	Listening on port 33585
+1535981480494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535981523452	geckodriver	INFO	geckodriver 0.21.0
+1535981523456	geckodriver	INFO	Listening on 127.0.0.1:33695
+1535981524476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3QhwXWPGkcnH"
+1535981528780	Marionette	INFO	Listening on port 44225
+1535981528794	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30506, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 30752, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536383787588	geckodriver	INFO	geckodriver 0.21.0
+1536383787754	geckodriver	INFO	Listening on 127.0.0.1:54167
+1536383788593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jr6mfE0kjQEm"
+1536383791405	Marionette	INFO	Listening on port 41817
+1536383791515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536383791569	Marionette	DEBUG	[2147483649] Frame script loaded
+1536383791569	Marionette	DEBUG	[2147483649] Frame script registered
+1536383791578	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536383791607	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536383791801	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536383792221	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536383845081	geckodriver	INFO	geckodriver 0.21.0
+1536383845085	geckodriver	INFO	Listening on 127.0.0.1:48171
+1536383846085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MJZVoC5nsumn"
+1536383849973	Marionette	INFO	Listening on port 44127
+1536383850001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536383850065	Marionette	DEBUG	[2147483649] Frame script loaded
+1536383850111	Marionette	DEBUG	[2147483649] Frame script registered
+1536383850140	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536383850186	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536383850389	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536383850715	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536383957575	Marionette	INFO	Stopped listening on port 41817
+[Parent 7435, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536383958650	Marionette	INFO	Stopped listening on port 44127
+1536384082334	geckodriver	INFO	geckodriver 0.21.0
+1536384082340	geckodriver	INFO	Listening on 127.0.0.1:41915
+1536384083339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OW9GMbAsuqwo"
+1536384086518	Marionette	INFO	Listening on port 40029
+1536384086558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536384086606	Marionette	DEBUG	[2147483649] Frame script loaded
+1536384086652	Marionette	DEBUG	[2147483649] Frame script registered
+1536384086682	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536384086731	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536384087032	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536384087336	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536384288831	geckodriver	INFO	geckodriver 0.21.0
+1536384288836	geckodriver	INFO	Listening on 127.0.0.1:46331
+1536384289835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ifcWsXeSdoSI"
+1536384292897	Marionette	INFO	Listening on port 44281
+1536384292941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536384292980	Marionette	DEBUG	[2147483649] Frame script loaded
+1536384292981	Marionette	DEBUG	[2147483649] Frame script registered
+1536384292992	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536384293023	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536384293190	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536384293571	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536384371031	Marionette	DEBUG	[2147483653] Frame script loaded
+1536384371040	Marionette	DEBUG	[2147483653] Frame script registered
+1536384371080	Marionette	DEBUG	[4294967297] Frame script loaded
+1536384371081	Marionette	DEBUG	[4294967297] Frame script registered
+[Parent 7888, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536384399193	Marionette	INFO	Stopped listening on port 44281
+1536384400849	Marionette	INFO	Stopped listening on port 40029
+1536384499347	geckodriver	INFO	geckodriver 0.21.0
+1536384499351	geckodriver	INFO	Listening on 127.0.0.1:53005
+1536384500352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xxllDb2bWs3X"
+1536384505300	Marionette	INFO	Listening on port 39735
+1536384505374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536384505433	Marionette	DEBUG	[2147483649] Frame script loaded
+1536384505447	Marionette	DEBUG	[2147483649] Frame script registered
+1536384505477	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536384505597	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536384505912	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536384509204	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536384522383	geckodriver	INFO	geckodriver 0.21.0
+1536384522386	geckodriver	INFO	Listening on 127.0.0.1:39999
+1536384523387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iZwgS3gcQOkZ"
+1536384526576	Marionette	INFO	Listening on port 45861
+1536384526605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536384526667	Marionette	DEBUG	[2147483649] Frame script loaded
+1536384526674	Marionette	DEBUG	[2147483649] Frame script registered
+1536384526699	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536384526719	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536384526932	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536384527240	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536384811046	geckodriver	INFO	geckodriver 0.21.0
+1536384811050	geckodriver	INFO	Listening on 127.0.0.1:41761
+1536384812110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XKiZBeFjfg1W"
+1536384815004	Marionette	INFO	Listening on port 37805
+1536384815037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536384815094	Marionette	DEBUG	[2147483649] Frame script loaded
+1536384815096	Marionette	DEBUG	[2147483649] Frame script registered
+1536384815156	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536384815196	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536384815409	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536384815736	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536385160145	geckodriver	INFO	geckodriver 0.21.0
+1536385160149	geckodriver	INFO	Listening on 127.0.0.1:48319
+1536385161150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zqrvw2F2mmce"
+1536385163999	Marionette	INFO	Listening on port 40897
+1536385164068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536385164118	Marionette	DEBUG	[2147483649] Frame script loaded
+1536385164172	Marionette	DEBUG	[2147483649] Frame script registered
+1536385164206	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536385164257	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536385164477	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536385164844	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536385642496	geckodriver	INFO	geckodriver 0.21.0
+1536385642500	geckodriver	INFO	Listening on 127.0.0.1:52519
+1536385643501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MK5Rbm90T5e1"
+1536385646613	Marionette	INFO	Listening on port 35407
+1536385646738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536385646800	Marionette	DEBUG	[2147483649] Frame script loaded
+1536385646802	Marionette	DEBUG	[2147483649] Frame script registered
+1536385646827	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536385646849	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536385647140	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536385647491	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536385662482	geckodriver	INFO	geckodriver 0.21.0
+1536385662488	geckodriver	INFO	Listening on 127.0.0.1:34899
+1536385663487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c7FxEpgY2TZW"
+1536385667704	Marionette	INFO	Listening on port 41367
+1536385667802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536385667859	Marionette	DEBUG	[2147483649] Frame script loaded
+1536385667860	Marionette	DEBUG	[2147483649] Frame script registered
+1536385667873	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536385667891	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536385668126	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536385668636	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536385687468	geckodriver	INFO	geckodriver 0.21.0
+1536385687472	geckodriver	INFO	Listening on 127.0.0.1:46565
+1536385688473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4UoTT1KXfW8I"
+1536385691370	Marionette	INFO	Listening on port 46535
+1536385691387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536385691439	Marionette	DEBUG	[2147483649] Frame script loaded
+1536385691440	Marionette	DEBUG	[2147483649] Frame script registered
+1536385691459	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536385691541	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536385691778	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536385692105	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536385770619	geckodriver	INFO	geckodriver 0.21.0
+1536385770625	geckodriver	INFO	Listening on 127.0.0.1:51233
+1536385771624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cPdakUwd3ATA"
+1536385774431	Marionette	INFO	Listening on port 34823
+1536385774586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536385774648	Marionette	DEBUG	[2147483649] Frame script loaded
+1536385774649	Marionette	DEBUG	[2147483649] Frame script registered
+1536385774664	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536385774683	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536385774895	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+JavaScript error: http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1, line 138: TypeError: parent_navy[0] is undefined
+1536385775288	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://www.cse.neu.edu.cn/SinglePage.aspx?news_id=b3d56656-e43c-4d1c-b8fe-61d97eb1679c&navigation_id=%u9996%u9875&module=%u901A%u77E5%u516C%u544A&cat=1
+1536385788296	Marionette	INFO	Stopped listening on port 37805
+1536385788323	Marionette	INFO	Stopped listening on port 39735
+1536385788342	Marionette	INFO	Stopped listening on port 46535
+1536385788344	Marionette	INFO	Stopped listening on port 35407
+1536385788362	Marionette	INFO	Stopped listening on port 45861
+1536385788378	Marionette	INFO	Stopped listening on port 41367
+1536385788381	Marionette	INFO	Stopped listening on port 40897
+1536385788621	Marionette	INFO	Stopped listening on port 34823
