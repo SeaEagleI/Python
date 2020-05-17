@@ -51,9 +51,9 @@ def WriteXml(string,path=xml_path):
     f.write(string)
     f.close()
     if op.isfile(path):
-        print("Successful")
+        print("Successfully Created Background")
     else:
-        print("Failure")
+        print("Failure to Create Background")
 
 def main():
     txt = getText()

@@ -12,6 +12,7 @@ submit_xpath = '''//*[@id="img1"]'''
 error_url = "http://sba.neu.edu.cn/NEU/index.asp"
 
 turns = 100
+id = 20170110
 
 def Login(driver,id,passwd):
     driver.get(url)
@@ -26,14 +27,11 @@ def Login(driver,id,passwd):
 def getInfo(url):
     html = requests.get(url).text
     soup = BeautifulSoup(html,'html.parser')
-    
-    
-    
+  
 def main():
-    id = 20170110
     driver = webdriver.Firefox()
     for i in range(turns):
-        #id = id + 1
+        id = id + 1
         list = ["170110","0170110","20170110"]
         passwd = list[i]
         Login(driver,id,passwd)

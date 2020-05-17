@@ -31,7 +31,7 @@ def printUnivList(ulist,num):
         u = ulist[i]
         print(tplt.format(u[0],u[1],u[2],chr(12288)))
     pass
-    
+
 def main():
     uinfo = []
     html = getHTMLText(url)
@@ -42,25 +42,4 @@ def main():
     
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

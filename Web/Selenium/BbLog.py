@@ -7,7 +7,9 @@ head = ['StuId','Class','Name']
 url = "https://bb.neu.edu.cn/"
 id_xpath = '''//*[@id="user_id"]'''
 passwd_xpath = '''//*[@id="password"]'''
-submit_xpath = '''//*[@id="login"]/table/tbody/tr[3]/td[2]/input'''
+submit_xpath1 = '''//*[@id="login"]/table/tbody/tr[3]/td[2]/input'''
+#new_url = 'https://bb.neu.edu.cn/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1'
+submit_xpath2 = '//*[@id="entry-login"]'
 info_xpath = '//*[@id="global-nav-link"]'
 quit_xpath = '''//*[@id="topframe.logout.label"]'''
 error_url = "https://bb.neu.edu.cn/webapps/login/"
@@ -23,7 +25,10 @@ def Login(driver,id):
     driver.find_element_by_xpath(id_xpath).send_keys(id)
     driver.find_element_by_xpath(passwd_xpath).clear()
     driver.find_element_by_xpath(passwd_xpath).send_keys(id)
-    driver.find_element_by_xpath(submit_xpath).click()
+    try:
+        driver.find_element_by_xpath(submit_xpath1).click()
+    except:
+        driver.find_element_by_xpath(submit_xpath2).click()
 
 def WriteXls(list):
     ncols = len(head)
@@ -69,13 +74,14 @@ def main():
             #print("\n{} Successful".format(id))
             txt = driver.find_element_by_xpath(info_xpath).get_attribute('textContent')
             info = str(id)+''+txt.split('活')[0]
+            #print('\n',info)
             list.append(info)
             driver.find_element_by_xpath(quit_xpath).click()
             count = count + 1
             Pro(count,turns)
     print("")
     print("Successfully Crawled {}/{} Students' ids".format(len(list),turns))
-    WriteXls(list)
+    #WriteXls(list)
 
 main()
 

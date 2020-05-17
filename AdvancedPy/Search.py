@@ -31,7 +31,7 @@ def main():
     for i in range(turns):
         word = input("Input ["+str(i+1)+"]:")
         #start = time.perf_counter()
-        if word=="q":
+        if word=="q"or"exit":
             break
         else:
             list = search(word)
